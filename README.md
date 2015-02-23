@@ -1,3 +1,8 @@
+Beta
+-----
+Currently just prints the channel of the pkt it found
+--------------------------------------------------
+
 Find the wifi channel with the least interference to give to your router for better connection speeds.
 
 Requires: python 2.7, python-scapy, a wireless card capable of injection
