@@ -1,7 +1,3 @@
-Beta
------
-Currently just prints the channel of the pkt it found
-
 best-channel
 -----
 
